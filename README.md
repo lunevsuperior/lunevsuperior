@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @lunevsuperior
-- 👀 I’m interested in electronics and mechanics. In short in robotics.
-- 🌱 I’m currently learning c/c++
-- 💞️ I’m looking to collaborate on  
+- 👋 Hi, I’m Alex.
+- 👀 I’m interested in electronics and mechanics. In short in robotics. Also in сompetitive programming.
+- 🌱 I’m currently learning c/c++.
+- 💞️ I’m looking to discussing on competitive programming.   
 - 📫 How to reach me: lunev.superior@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: 
 - ⚡ Fun fact: I' not stupid, but that's not for sure...
 
 <!---
